@@ -1,0 +1,10 @@
+[package]
+name = "yew-elsewhere"
+version = "0.1.0"
+authors = ["Follpvosten <wolfi@karpador.xyz>"]
+edition = "2018"
+
+[dependencies]
+yew = "0.17"
+once_cell = "1"
+log = "0.4"
